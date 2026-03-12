@@ -1,0 +1,26 @@
+@"
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+# Python
+__pycache__/
+*.py[co]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.venv
+pip-wheel-metadata/
+*.egg-info/
+.installed.cfg
+*.egg
